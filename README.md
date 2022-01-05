@@ -1,4 +1,4 @@
-# Sokoban
+# Sokoban [点这里下载qwq  (因为这里是GitHub，可能要翻墙才行)](./Sokoban.exe)
 Console Game Application
 
 ## Project Description（项目说明）<br>
